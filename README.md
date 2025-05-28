@@ -1,146 +1,78 @@
-<h1 align="center">Hi 👋, I'm NATTETI VENKATESWARLU</h1>
-<h3 align="center">A passionate Python Full Stack Developer from India</h3>
+<h1 align="center">Hi 👋, I'm <span style="color:#36BCF7;">NATTETI VENKATESWARLU</span></h1>
+<h3 align="center">💻 A Passionate Python Full Stack Developer from India 🇮🇳</h3>
 
 <div align="center">
   <img src="https://github.com/NATTETIVENKATESWARLU/snk/blob/main/1725291628661.jpg?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Hi+👋,+I'm+VENKATESWARLU;Python+Full+Stack+Dev;Django+%7C+React+%7C+AWS;Open+Source+Contributor" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="GitHub Banner"/>
-</div>
-
-<p align="center">
-  🔭 I’m currently working on <strong>Online Exam Portal</strong><br>
-  🌱 I’m currently learning <strong>Django REST Framework, OAuth2, React Hooks, and Tailwind CSS</strong><br>
-  👯 I’m looking to collaborate on <strong>Open Source Django & React Projects</strong><br>
-  🤝 I’m looking for help with <strong>OAuth2 Authentication Integration</strong><br>
-  👨‍💻 All of my projects are available at <a href="https://github.com/NATTETIVENKATESWARLU">GitHub</a><br>
-  📝 I regularly write articles on <em>Coming Soon</em><br>
-  💬 Ask me about <strong>Python, Django, React, REST APIs, FAST APIs, and full stack development</strong><br>
-  📫 How to reach me: <strong>n.venkateswarlu180@gmail.com</strong><br>
-  📄 Know about my experiences: <a href="https://github.com/NATTETIVENKATESWARLU">Profile</a><br>
-  ⚡ Fun fact: <strong>I think I am funny 😄</strong>
-</p>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nattetivenkateswarlu&label=Profile+Views&color=blue&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/NATTETIVENKATESWARLU?label=Followers&style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/badge/Dynamic%20Badge-Update%20Daily-blue?logo=github" alt="Dynamic Badge" />
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="GitHub Banner" width="80%"/>
 </div>
 
 ---
 
-## 🔥 My Tech Stack
-<div style="text-align: center; padding: 10px;align=center;">
-  <h3>📝 Languages</h3>
-  <p>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin: 0 8px;"/>
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" >
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="margin: 0 8px;" />
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" >
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="margin: 0 8px;"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="margin: 0 8px;"/>
-    </a>
-  </p>
+### 👨‍💻 About Me
 
-  <h3>⚙️ Frameworks</h3>
-  <p>
-    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-      <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" style="margin: 0 8px;"/>
-    </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="margin: 0 8px;"/>
-    </a>
-    <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" style="margin: 0 8px;"/>
-    </a>
-    <a href="https://angular.io" target="_blank" rel="noreferrer">
-      <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" style="margin: 0 8px;"/>
-    </a>
-  </p>
-
-  <h3>🤖 AI / Machine Learning</h3>
-  <p>
-    <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40" style="margin: 0 8px;"/>
-    </a>
-    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40" style="margin: 0 8px;"/>
-    </a>
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" style="margin: 0 8px;"/>
-    </a>
-    <a href="https://tensorflow.org" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" style="margin: 0 8px;"/>
-    </a>
-    <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40" style="margin: 0 8px;"/>
-    </a>
-    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-      <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40" style="margin: 0 8px;"/>
-    </a>
-  </p>
-
-  <h3>☁️ Cloud & DevOps</h3>
-  <p>
-    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" style="margin: 0 8px;"/>
-    </a>
-    <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40" style="margin: 0 8px;"/>
-    </a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" style="margin: 0 8px;"/>
-    </a>
-    <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40" style="margin: 0 8px;"/>
-    </a>
-    <a href="https://jenkins.io" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40" style="margin: 0 8px;"/>
-    </a>
-    <a href="https://heroku.com" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" style="margin: 0 8px;"/>
-    </a>
-  </p>
-
-  <h3>🗄️ Databases</h3>
-  <p>
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" style="margin: 0 8px;"/>
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="margin: 0 8px;"/>
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" style="margin: 0 8px;"/>
-    </a>
-    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" style="margin: 0 8px;"/>
-    </a>
-  </p>
-</div>
-
+- 🔭 I’m currently working on **Online Exam Portal**
+- 🌱 Learning: **Django REST Framework, OAuth2, React Hooks, Tailwind CSS**
+- 👯 Open to collaborate on **Django + React Projects**
+- 🤝 Need help with **OAuth2 Authentication Integration**
+- 💬 Ask me about **Python, Django, React, REST APIs, and Full Stack Development**
+- 📫 Reach me: **n.venkateswarlu180@gmail.com**
+- 📝 Articles: _Coming Soon..._
+- ⚡ Fun fact: _I think I’m funny 😄_
 
 ---
 
-## 🛠️ Tools & IDEs I Use
+### 🧠 Tech Stack
 
-<div align="center">
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</div>
+#### 📝 Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+#### ⚙️ Frameworks & Libraries
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+
+#### 🤖 AI / ML
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-2E73B6?style=flat-square)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+#### ☁️ Cloud / DevOps
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+
+#### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+### 🧰 Tools & IDEs
+
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
+![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter)
+![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=flat-square&logo=anaconda)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NATTETIVENKATESWARLU&show_icons=true&theme=radical&hide_border=true" width="48%" />
@@ -151,7 +83,7 @@
 
 ---
 
-## 🐍 Contribution Snake
+### 🐍 Contribution Snake
 
 <div align="center">
   <img src="https://github.com/NATTETIVENKATESWARLU/snk/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
@@ -159,43 +91,38 @@
 
 ---
 
-## 🌟 Featured Projects
+### 🌟 Featured Projects
 
 <div align="center">
   <a href="https://github.com/NATTETIVENKATESWARLU/Online-Exam-Portal">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=NATTETIVENKATESWARLU&repo=Online-Exam-Portal&theme=radical" width="45%" />
   </a>
-  <a href="https://github.com/NATTETIVENKATESWARLU?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NATTETIVENKATESWARLU&repo=&theme=radical" width="45%" />
+  <!-- Add your second repo name below -->
+  <a href="https://github.com/NATTETIVENKATESWARLU/Another-Project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NATTETIVENKATESWARLU&repo=Another-Project&theme=radical" width="45%" />
   </a>
 </div>
 
 ---
 
-## 📫 Let's Connect
+### 📫 Let's Connect
 
 <div align="center">
   <a href="https://linkedin.com/in/venkateswarlu-natteti" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:n.venkateswarlu180@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="https://leetcode.com/venkateswarlu-natteti" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/>
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
   </a>
 </div>
 
 ---
 
-## 💡 Fun Fact
+### 💡 Fun Fact
 
 <div align="center">
-  <img 
-  src="https://readme-jokes.vercel.app/api?theme=radical" 
-  alt="Jokes Card" 
-  width="400" 
-  height="200" 
-  style="max-width: 100%; height: auto;" 
-/>
+  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" width="400" height="200" style="max-width: 100%; height: auto;" />
 </div>
