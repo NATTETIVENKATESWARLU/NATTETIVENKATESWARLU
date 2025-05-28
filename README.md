@@ -1,9 +1,9 @@
 <h1 align="center"> 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Hi+👋,+I'm+VENKATESWARLU;Python+Full+Stack+Dev;Django+%7C+React+%7C+AWS;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://i.imgur.com/4ASafy0.png?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Hi+👋,+I'm+VENKATESWARLU;Python+Full+Stack+Dev;Django+%7C+React+%7C+AWS;Open+Source+Contributor" alt="Typing SVG" />
 </h1>
 
 <div align="center">
-  <img src="https://github-profile-banner.vercel.app/api/?username=NATTETIVENKATESWARLU&theme=github-dark&title_color=58A6FF&text_color=FFFFFF&bg_color=0D1117" alt="GitHub Banner"/>
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="GitHub Banner"/>
 </div>
 
 ###
@@ -32,7 +32,7 @@
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/NATTETIVENKATESWARLU/NATTETIVENKATESWARLU/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/NATTETIVENKATESWARLU/snk/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ## 🌟 Featured Projects
