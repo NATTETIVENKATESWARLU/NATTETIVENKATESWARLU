@@ -2,7 +2,7 @@
 <h3 align="center">💻 A Passionate Python Full Stack Developer from India 🇮🇳</h3>
 
 <div align="center">
-  <img src="https://github.com/NATTETIVENKATESWARLU/snk/blob/main/1725291628661.jpg?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Hi+👋,+I'm+VENKATESWARLU;Python+Full+Stack+Dev;Django+%7C+React+%7C+AWS;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://github.com/NATTETIVENKATESWARLU/snk/blob/main/81bb4b165684019.640b6038d133e.gif?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Hi+👋,+I'm+VENKATESWARLU;Python+Full+Stack+Dev;Django+%7C+React+%7C+AWS;Open+Source+Contributor" alt="Typing SVG" />
 </div>
 
 
@@ -25,7 +25,7 @@
         </ul>
       </td>
       <td>
-        <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="GitHub Banner" width="300px"/>
+        <img src="https://github.com/NATTETIVENKATESWARLU/snk/blob/main/developer.gif" alt="GitHub Banner" width="300px"/>
       </td>
     </tr>
   </table>
