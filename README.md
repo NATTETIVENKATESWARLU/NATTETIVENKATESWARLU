@@ -5,22 +5,33 @@
   <img src="https://github.com/NATTETIVENKATESWARLU/snk/blob/main/1725291628661.jpg?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Hi+👋,+I'm+VENKATESWARLU;Python+Full+Stack+Dev;Django+%7C+React+%7C+AWS;Open+Source+Contributor" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="GitHub Banner" width="80%"/>
-</div>
 
 ---
 
-### 👨‍💻 About Me
+<div align="center">
+  <table>
+    <tr>
+      <td style="vertical-align: top; padding-right: 20px;">
+        <h3>👨‍💻 About Me</h3>
+        <ul>
+          <li>🔭 I’m currently working on <strong>Online Exam Portal</strong></li>
+          <li>🌱 Learning: <strong>Django REST Framework, OAuth2, React Hooks, Tailwind CSS</strong></li>
+          <li>👯 Open to collaborate on <strong>Django + React Projects</strong></li>
+          <li>🤝 Need help with <strong>OAuth2 Authentication Integration</strong></li>
+          <li>💬 Ask me about <strong>Python, Django, React, REST APIs, and Full Stack Development</strong></li>
+          <li>📫 Reach me: <strong>n.venkateswarlu180@gmail.com</strong></li>
+          <li>📝 Articles: <em>Coming Soon...</em></li>
+          <li>⚡ Fun fact: <em>I think I’m funny 😄</em></li>
+        </ul>
+      </td>
+      <td>
+        <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="GitHub Banner" width="300px"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
-- 🔭 I’m currently working on **Online Exam Portal**
-- 🌱 Learning: **Django REST Framework, OAuth2, React Hooks, Tailwind CSS**
-- 👯 Open to collaborate on **Django + React Projects**
-- 🤝 Need help with **OAuth2 Authentication Integration**
-- 💬 Ask me about **Python, Django, React, REST APIs, and Full Stack Development**
-- 📫 Reach me: **n.venkateswarlu180@gmail.com**
-- 📝 Articles: _Coming Soon..._
-- ⚡ Fun fact: _I think I’m funny 😄_
+
 
 ---
 
@@ -33,10 +44,15 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 #### ⚙️ Frameworks & Libraries
+
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![REST APIs](https://img.shields.io/badge/-REST%20APIs-FF6F00?style=flat-square&logo=api&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+
 
 #### 🤖 AI / ML
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)
