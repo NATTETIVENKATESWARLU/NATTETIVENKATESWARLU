@@ -2,12 +2,11 @@
 <h3 align="center">💻 A Passionate Python Full Stack Developer from India 🇮🇳</h3>
 
 <div align="center">
-  <img src="https://github.com/NATTETIVENKATESWARLU/snk/blob/main/81bb4b165684019.640b6038d133e.gif?raw=true" 
+  <img src="https://i.imgur.com/4ASafy0.png?raw=true" 
        alt="LinkedIn Banner - VENKATESWARLU | Python Full Stack Dev" 
-       width="1584" 
-       height="396" 
-       style="object-fit: cover; border-radius: 8px;" />
+       width="100%" />
 </div>
+
 
 
 ---
